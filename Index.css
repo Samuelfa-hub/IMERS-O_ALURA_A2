@@ -19,8 +19,8 @@ body {
   
   /* Container with the background image */
   .container {
-    background: url('https://i.postimg.cc/TY28jTqJ/bg4-ia.jpg') no-repeat center center/cover;
-    min-height: 100vh;
+    background: url(./Assets/Jokempo.png) no-repeat center center/cover;
+    min-height: 100vh ;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -41,12 +41,18 @@ body {
   /* Button Styles */
   button {
     background-color: #ff1b7b;
+
     border: none;
+    border-radius: 30px;
+
     padding: 10px 20px;
+
     font-size: 1.2em;
     color: white;
     cursor: pointer;
+    
     transition: background-color 0.3s ease;
+
   }
   
   button:hover {
