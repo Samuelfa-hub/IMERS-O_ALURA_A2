@@ -17,7 +17,7 @@
 <br>     
 
 <p align="center">
-  <img alt="Preview" src="./.GitHub/Preview.png" width="100%">
+  <img alt="Preview" src="./.GitHub/Previe.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
